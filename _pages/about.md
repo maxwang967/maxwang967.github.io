@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Beijing University of Posts and Telecommunications; Weixin Group, Tencent.
+subtitle: Weixin Group, Tencent
 
 profile:
   align: right
